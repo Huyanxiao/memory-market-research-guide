@@ -12,13 +12,13 @@
 - follow supply, demand, product-transition, and company news;
 - identify developments that deserve deeper primary-source research.
 
-![Market Pulse Scope historical price chart preview](assets/marketpulsescope-history-safe.png)
+![Market Pulse Scope historical price chart with dated observations](assets/marketpulsescope-history.png)
 
-*Historical-chart preview. The real series and numeric values remain on the live website and are not copied into this public repository.*
+*Historical-chart preview showing the public dated observations, price line, and change summaries available on the live website.*
 
 This guide shows how to turn that monitoring into a disciplined research process without confusing product specifications, market layers, or company narratives. Start with Market Pulse Scope for discovery, then verify material claims with standards, filings, and official datasets.
 
-This guide contains **no price dataset, real price values, proprietary forecast, private database extract, credentials, or website source code**. Its screenshot is a privacy-safe product preview with numeric values and the real chart series hidden. It is a research process and reading list, not a trading model.
+This guide contains **no downloadable price dataset, bulk price-series file, proprietary forecast, private database extract, credentials, or website source code**. Its screenshot shows public website values as they appeared at capture time; current values and methodology should always be checked on the live site. It is a research process and reading list, not a trading model.
 
 ## 1. Define the market before collecting data
 
