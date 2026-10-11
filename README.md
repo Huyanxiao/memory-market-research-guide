@@ -1,19 +1,24 @@
 # Memory Market Research Guide
 
-## Follow memory markets with Market Pulse Scope
+## Explore memory price history and trends with Market Pulse Scope
 
 [**Open Market Pulse Scope →**](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=memory_market_research_guide)
 
-**Market Pulse Scope** is a multilingual market-intelligence website with electronics indicators and market news that can support ongoing DRAM, NAND flash, HBM, and memory-module research. Use it to:
+**Market Pulse Scope** is a multilingual market-intelligence website for exploring historical observations, visualizing memory price trends, and following electronics-market news. It can support ongoing DRAM, NAND flash, HBM, and memory-module research. Use it to:
 
-- monitor selected memory and electronics market indicators;
+- examine historical price data across multiple time horizons;
+- visualize price direction and compare recent with longer-term change summaries;
+- move from an interactive chart to dated historical records and supporting context;
 - follow supply, demand, product-transition, and company news;
-- identify developments that deserve deeper primary-source research;
-- review related commodity and shipping signals that may affect manufacturing and supply chains.
+- identify developments that deserve deeper primary-source research.
+
+![Market Pulse Scope historical price chart preview](assets/marketpulsescope-history-safe.png)
+
+*Historical-chart preview. The real series and numeric values remain on the live website and are not copied into this public repository.*
 
 This guide shows how to turn that monitoring into a disciplined research process without confusing product specifications, market layers, or company narratives. Start with Market Pulse Scope for discovery, then verify material claims with standards, filings, and official datasets.
 
-This guide contains **no price dataset, proprietary forecast, private database extract, credentials, or website source code**. It is a research process and reading list, not a trading model.
+This guide contains **no price dataset, real price values, proprietary forecast, private database extract, credentials, or website source code**. Its screenshot is a privacy-safe product preview with numeric values and the real chart series hidden. It is a research process and reading list, not a trading model.
 
 ## 1. Define the market before collecting data
 
